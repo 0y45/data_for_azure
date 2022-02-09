@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000054--4-_JPG_jpg.rf.8bf489f8f35aa3b54ce5442e9e0f28fb.jpg</filename>
+	<path>000054--4-_JPG_jpg.rf.8bf489f8f35aa3b54ce5442e9e0f28fb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kopuk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>178</xmin>
+			<xmax>298</xmax>
+			<ymin>201</ymin>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000050--5-_JPG_jpg.rf.f991f1584926c4afcb4ee2a14d060c89.jpg</filename>
+	<path>000050--5-_JPG_jpg.rf.f991f1584926c4afcb4ee2a14d060c89.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kagit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>224</xmin>
+			<xmax>241</xmax>
+			<ymin>127</ymin>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

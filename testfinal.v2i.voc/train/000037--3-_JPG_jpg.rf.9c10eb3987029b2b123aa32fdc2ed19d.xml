@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000037--3-_JPG_jpg.rf.9c10eb3987029b2b123aa32fdc2ed19d.jpg</filename>
+	<path>000037--3-_JPG_jpg.rf.9c10eb3987029b2b123aa32fdc2ed19d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>diger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>268</xmin>
+			<xmax>282</xmax>
+			<ymin>231</ymin>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

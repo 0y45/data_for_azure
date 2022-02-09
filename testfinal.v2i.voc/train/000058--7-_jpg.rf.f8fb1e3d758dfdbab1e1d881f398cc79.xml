@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>000058--7-_jpg.rf.f8fb1e3d758dfdbab1e1d881f398cc79.jpg</filename>
+	<path>000058--7-_jpg.rf.f8fb1e3d758dfdbab1e1d881f398cc79.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>171</xmin>
+			<xmax>229</xmax>
+			<ymin>183</ymin>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
